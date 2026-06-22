@@ -96,3 +96,6 @@ The models were evaluated using:
 ## 📊 Conclusion
 
 This project demonstrates an end-to-end machine learning pipeline for breast cancer classification, including data preprocessing, exploratory data analysis, visualization, feature scaling, model training, and evaluation. Among the tested algorithms, the Random Forest model delivered the best predictive performance and can effectively classify tumors as Benign or Malignant based on the available features.
+
+## Author 
+  ** Bunty saini **
